@@ -1,0 +1,192 @@
+===========================================
+      Selamat datang di perpustakaan.    
+===========================================
+Silakan pilih :
+1. Login sebagai Mahasiswa
+2. Login sebagai Dosen/Staff
+3. Login sebagai Pustakawan
+4. Keluar
+Masukkan pilihan Anda: 3
+
+
+
+===========================================    
+               LOGIN
+=========================================== 
+Username: Edrick
+Password: 12345
+
+
+
+===========================================    
+           Login Berhasil
+===========================================    
+Silakan pilih tindakan:
+1. Claim Pengembalian
+2. History Peminjaman
+3. Mengelola Data Buku
+4. Menambah Data CD
+5. Cek Ketersediaan Buku
+6. Cek Ketersediaan CD
+7. Keluar
+Masukkan pilihan Anda: 3
+Menu Pengelolaan Data Buku
+1. Tambah Data Buku
+2. Tampilkan Semua Data Buku
+3. Kembali ke Menu Utama
+Masukkan pilihan Anda: 1
+Masukkan jumlah buku yang ingin ditambahkan: 3 
+Masukkan judul buku: m1
+Masukkan judul buku: m2
+Masukkan judul buku: m3
+Data buku berhasil ditambahkan.
+Menu Pengelolaan Data Buku
+1. Tambah Data Buku
+2. Tampilkan Semua Data Buku
+3. Kembali ke Menu Utama
+Masukkan pilihan Anda: 2
+Daftar Buku:
+1. m1
+2. m2
+3. m3
+Menu Pengelolaan Data Buku
+1. Tambah Data Buku
+2. Tampilkan Semua Data Buku
+3. Kembali ke Menu Utama
+Masukkan pilihan Anda: 3
+
+
+
+===========================================    
+      Selamat datang di perpustakaan.
+===========================================    
+Silakan pilih :
+1. Login sebagai Mahasiswa
+2. Login sebagai Dosen/Staff
+3. Login sebagai Pustakawan
+4. Keluar
+Masukkan pilihan Anda: 1
+
+
+
+===========================================    
+               LOGIN
+===========================================    
+Username: Rahmat
+Password: 34567
+
+
+
+===========================================    
+           Login Berhasil
+===========================================    
+Silakan pilih tindakan:
+1. Pinjam Buku
+2. Pinjam CD
+3. Pengembalian Buku
+4. Pengembalian CD
+5. Mencari Buku
+6. Mencari CD
+7. Perpanjang Peminjaman
+8. Keluar
+Masukkan pilihan Anda: 1
+
+Daftar Buku yang Tersedia:
+Daftar Buku:
+1. m1
+2. m2
+3. m3
+Masukkan nomor buku yang ingin Anda pinjam atau ketik 0 untuk kembali: 1
+Anda telah meminjam buku dengan judul 'm1'.    
+
+
+
+===========================================    
+      Selamat datang di perpustakaan.
+===========================================    
+Silakan pilih :
+1. Login sebagai Mahasiswa
+2. Login sebagai Dosen/Staff
+3. Login sebagai Pustakawan
+4. Keluar
+Masukkan pilihan Anda: 3
+
+
+
+===========================================    
+               LOGIN
+===========================================    
+Username: Edrick
+Password: 12345
+
+
+
+===========================================    
+           Login Berhasil
+===========================================    
+Silakan pilih tindakan:
+1. Claim Pengembalian
+2. History Peminjaman
+3. Mengelola Data Buku
+4. Menambah Data CD
+5. Cek Ketersediaan Buku
+6. Cek Ketersediaan CD
+7. Keluar
+Masukkan pilihan Anda: 1
+Daftar Buku yang Sedang Dipinjam:
+1. m1
+Masukkan nomor buku yang akan dikembalikan: 1  
+Buku dengan judul 'm1' telah dikembalikan.     
+Masukkan jumlah hari keterlambatan: 12
+Denda yang harus dibayar: Rp 12000.0
+
+
+
+===========================================    
+      Selamat datang di perpustakaan.
+===========================================    
+Silakan pilih :
+1. Login sebagai Mahasiswa
+2. Login sebagai Dosen/Staff
+3. Login sebagai Pustakawan
+4. Keluar
+Masukkan pilihan Anda: 3
+
+
+
+===========================================    
+               LOGIN
+===========================================    
+Username: Edrick
+Password: 12345
+
+
+
+===========================================    
+           Login Berhasil
+===========================================    
+Silakan pilih tindakan:
+1. Claim Pengembalian
+2. History Peminjaman
+3. Mengelola Data Buku
+4. Menambah Data CD
+5. Cek Ketersediaan Buku
+6. Cek Ketersediaan CD
+7. Keluar
+Masukkan pilihan Anda: 2
+Riwayat Peminjaman:
+Buku 1- Dipinjam oleh Mahasiswa A
+Buku 2
+Buku 3
+
+
+===========================================    
+      Selamat datang di perpustakaan.
+===========================================    
+Silakan pilih :
+1. Login sebagai Mahasiswa
+2. Login sebagai Dosen/Staff
+3. Login sebagai Pustakawan
+4. Keluar
+Masukkan pilihan Anda: 4
+Terima kasih! Sampai jumpa lagi.
